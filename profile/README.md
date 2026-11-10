@@ -1,10 +1,4 @@
-<p>
-  <a href="https://vulnory.com.br">
-    <img src="assets/assinatura-horizontal-fundo-azul.svg" alt="Vulnory" width="320">
-  </a>
-</p>
-
-### A exposição cibernética do Brasil, medida de fora.
+<a href="https://vulnory.com.br"><img src="assets/faixa.svg" alt="Vulnory: a exposição cibernética do Brasil, medida de fora." width="100%"></a>
 
 A Vulnory é uma pesquisa aberta e contínua sobre a exposição cibernética do Brasil. Medimos, de fora e só com dados públicos, como a internet brasileira se protege, e publicamos os resultados com método, fonte e data.
 
