@@ -25,16 +25,14 @@ O escopo é nacional: as 27 unidades da federação e os 5.570 municípios.
 
 - **Só dados passivos e públicos.** Consultas de DNS, requisições HTTP comuns e bases públicas de varredura. Nada de exploração, teste de invasão ou acesso a sistemas de terceiros.
 - **Só números agregados.** Publicamos resultados por Brasil, região, UF, porte de município, tipo de órgão e setor. Nunca o resultado de um órgão, empresa ou domínio específico. Grupos com menos de 10 organizações não são publicados.
-- **Sem guardar endereços IP.** A exposição a vulnerabilidades é contada, não catalogada.
-- **Aviso antes de publicar.** Os órgãos com problemas são avisados em privado antes da publicação de cada pesquisa.
 - **Metodologia aberta e versionada.** Todo número publicado leva a fonte, a checagem, a data da coleta e a versão do método.
 
 #### Onde acompanhar
 
-- Site: [vulnory.com.br](https://vulnory.com.br)
-- Instagram: [@vulnory](https://instagram.com/vulnory)
-- X: [@vulnory](https://x.com/vulnory)
+<p>
+  <a href="https://vulnory.com.br"><img src="https://img.shields.io/badge/vulnory.com.br-1E2B78?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site vulnory.com.br"></a>
+  <a href="https://instagram.com/vulnory"><img src="https://img.shields.io/badge/Instagram-1E2B78?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @vulnory"></a>
+  <a href="https://x.com/vulnory"><img src="https://img.shields.io/badge/X-1E2B78?style=for-the-badge&logo=x&logoColor=white" alt="X @vulnory"></a>
+</p>
 
 As pesquisas também saem em formato curto na série **Ponto Exposto**, nas redes sociais.
-
-<sub>Vulnory é um projeto independente de pesquisa e comunidade. Não vende serviços de segurança.</sub>
